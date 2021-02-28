@@ -86,6 +86,7 @@ There are several numbers of great companion PC tools from third-party.
 ## Documentation
 
 * [tinySA User Guide](https://tinySA.org/wiki/)
+* [tinySA Firmware Release Notes](https://github.com/erikkaashoek/tinySA/tree/master/doc/releases.txt)
 
 ## Reference
 
